@@ -1,6 +1,6 @@
 # ESK-EDD-NLP_DocumentSimilarity
 
-:warning: **REPOSITORY NOT ACTIVE SINCE 2018 Dependabot alerts in git security settings disabled**
+:warning: **REPOSITORY NOT ACTIVE SINCE 2019 Dependabot alerts in git security settings disabled**
 
 presentation and workshop on NLP and document similarity
 
